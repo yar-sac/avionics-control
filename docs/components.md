@@ -1,0 +1,12 @@
+-ARM Chip                   -
+-Altimeter                  -
+-Flash memory               -
+-SD card reader             -
+-GPS Transmitter            -
+-Plug sockets               -
+-CO2 sensor                 -
+-Temp sensor                -
+-Geiger-Muller Tube         -
+-Etc                        -
+-Some programing connector  -
+-Power                      -

@@ -9,3 +9,12 @@ Each of the following subsystems must implement redundant electronics. For each 
 
 ### Altitude logging
 Official altitude logging must be implemented by a COTS barometric pressure altimeter with on-board data storage, which will provide the official log for scoring. 
+
+### COTS Flight computers
+* http://www.perfectflitedirect.com/stratologger-altimeter/
+* http://www.aeroconsystems.com/electronics/gwiz.htm
+* https://www.featherweightaltimeters.com/
+* https://altusmetrum.org/TeleMetrum/
+* http://entacore.com/electronics/aimusb
+* https://altusmetrum.org/EasyMini/
+* https://www.missileworks.com/rrc3/

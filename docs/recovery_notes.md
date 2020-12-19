@@ -26,3 +26,4 @@ They are not all equal:
 * Some can log more than just altimeter data
 * They differ in the amount of data they can record, depending on sample frequency, number of sensors, and storage size. Some have enough storage for many flights, others might only have room for one.
 * The quality and ease of use of the software will varies; some are going to be much more difficult than others when it comes to getting the data off them and to the scoring tent, and there's going to be variation in how well we can configure them to trigger chute deployment at the right height.
+* Some integrate GPS tracking, which is a requirement for the competition.
